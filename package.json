@@ -1,0 +1,27 @@
+{
+  "name": "namastereactclass",
+  "version": "1.0.0",
+  "description": "this is tut for learning ",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gaybi77/namastereactclass.git"
+  },
+  "author": "krishna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gaybi77/namastereactclass/issues"
+  },
+  "homepage": "https://github.com/gaybi77/namastereactclass#readme",
+  "devDependencies": {
+    "parcel": "^2.8.2",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
